@@ -208,3 +208,4 @@ INNER JOIN
 LEFT JOIN
 RIGHT JOIN
 FULL OUTER JOIN
+Ascending and descending arrange 

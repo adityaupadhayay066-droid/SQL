@@ -29,3 +29,4 @@ UPDATE student 	SET City = "Bhumbaneswar" WHERE student_id = 136;
 
 -- Show structure and Schema of Table 
 desc student;
+

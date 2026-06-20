@@ -17,7 +17,7 @@ INSERT INTO Books VALUES
 (07,"The Psychology of Money", "Morgan House",950, "12/12/2000");
 UPDATE Books set price = 1500 WHERE Book_id = 01;
 SELECT * FROM Books
--- WHERE Price > 500;
+WHERE Price > 500;
 
 
 
